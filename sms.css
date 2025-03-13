@@ -1,0 +1,45 @@
+.signin{
+    font-weight: bolder;
+}
+.ea{
+    font-weight: 900;
+}
+.pw{
+    font-weight: 900;
+}
+.fp{
+    font-weight: 700;
+    font-size: larger;
+}
+.lg{
+    font-weight: 900;
+    font-size: larger;
+}
+.wg{
+    font-weight: 800;
+    font-size: larger;
+}
+.na{
+    font-weight: 800;
+}
+.im{
+    width: 50%;
+    height: 50%;
+}
+.nv{
+    font-weight: bolder;
+}
+.lc{
+    text-align: left;
+}
+.icon1{
+
+    width: 50px;
+    height: 40px;
+    
+ }
+ .icon2{
+     text-align: center;
+    width: 50px;
+    height: 40px;
+ }
